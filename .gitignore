@@ -192,3 +192,229 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/._.DS_Store
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/._Annotations
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/._Tissue Images
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-18-5592-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-21-5784-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-21-5786-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-38-6178-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-49-4488-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-50-5931-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-A7-A13E-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-A7-A13F-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-AR-A1AK-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-AR-A1AS-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-AY-A8YK-01A-01-TS1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-B0-5698-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-B0-5710-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-B0-5711-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-BC-A217-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-CH-5767-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-DK-A2I6-01A-01-TS1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-E2-A14V-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-E2-A1B5-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-F9-A8NY-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-FG-A87N-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-G2-A2EK-01A-02-TSB.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-G9-6336-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-G9-6348-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-G9-6356-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-G9-6362-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-G9-6363-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-HE-7128-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-HE-7129-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-HE-7130-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-KB-A93J-01A-01-TS1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-MH-A561-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-NH-A8F7-01A-01-TS1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-RD-A8N9-01A-01-TS1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-UZ-A9PJ-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-UZ-A9PN-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Annotations/._TCGA-XS-A8TJ-01Z-00-DX1.xml
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-18-5592-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-21-5784-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-21-5786-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-38-6178-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-49-4488-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-50-5931-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-A7-A13E-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-A7-A13F-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-AR-A1AK-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-AR-A1AS-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-AY-A8YK-01A-01-TS1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-B0-5698-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-B0-5710-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-B0-5711-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-BC-A217-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-CH-5767-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-DK-A2I6-01A-01-TS1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-E2-A14V-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-E2-A1B5-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-F9-A8NY-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-FG-A87N-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-G2-A2EK-01A-02-TSB.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-G9-6336-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-G9-6348-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-G9-6356-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-G9-6362-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-G9-6363-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-HE-7128-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-HE-7129-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-HE-7130-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-KB-A93J-01A-01-TS1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-MH-A561-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-NH-A8F7-01A-01-TS1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-RD-A8N9-01A-01-TS1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-UZ-A9PJ-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-UZ-A9PN-01Z-00-DX1.tif
+MoNuSeg/__MACOSX/MoNuSeg 2018 Training Data/Tissue Images/._TCGA-XS-A8TJ-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/.DS_Store
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-18-5592-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-21-5784-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-21-5786-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-38-6178-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-49-4488-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-50-5931-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-A7-A13E-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-A7-A13F-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-AR-A1AK-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-AR-A1AS-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-AY-A8YK-01A-01-TS1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-B0-5698-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-B0-5710-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-B0-5711-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-BC-A217-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-CH-5767-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-DK-A2I6-01A-01-TS1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-E2-A14V-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-E2-A1B5-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-F9-A8NY-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-FG-A87N-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-G2-A2EK-01A-02-TSB.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-G9-6336-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-G9-6348-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-G9-6356-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-G9-6362-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-G9-6363-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-HE-7128-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-HE-7129-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-HE-7130-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-KB-A93J-01A-01-TS1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-MH-A561-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-NH-A8F7-01A-01-TS1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-RD-A8N9-01A-01-TS1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-UZ-A9PJ-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-UZ-A9PN-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Annotations/TCGA-XS-A8TJ-01Z-00-DX1.xml
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-18-5592-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-21-5784-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-21-5786-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-38-6178-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-49-4488-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-50-5931-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-A7-A13E-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-A7-A13F-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-AR-A1AK-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-AR-A1AS-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-AY-A8YK-01A-01-TS1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-B0-5698-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-B0-5710-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-B0-5711-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-BC-A217-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-CH-5767-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-DK-A2I6-01A-01-TS1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-E2-A14V-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-E2-A1B5-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-F9-A8NY-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-FG-A87N-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-G2-A2EK-01A-02-TSB.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-G9-6336-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-G9-6348-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-G9-6356-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-G9-6362-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-G9-6363-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-HE-7128-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-HE-7129-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-HE-7130-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-KB-A93J-01A-01-TS1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-MH-A561-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-NH-A8F7-01A-01-TS1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-RD-A8N9-01A-01-TS1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-UZ-A9PJ-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-UZ-A9PN-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Annotations/TCGA-XS-A8TJ-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-18-5592-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-21-5784-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-21-5786-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-38-6178-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-49-4488-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-50-5931-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-A7-A13E-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-A7-A13F-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-AR-A1AK-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-AR-A1AS-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-AY-A8YK-01A-01-TS1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-B0-5698-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-B0-5710-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-B0-5711-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-BC-A217-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-CH-5767-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-DK-A2I6-01A-01-TS1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-E2-A14V-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-E2-A1B5-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-F9-A8NY-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-FG-A87N-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-G2-A2EK-01A-02-TSB.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-G9-6336-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-G9-6348-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-G9-6356-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-G9-6362-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-G9-6363-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-HE-7128-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-HE-7129-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-HE-7130-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-KB-A93J-01A-01-TS1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-UZ-A9PJ-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-MH-A561-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-UZ-A9PN-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-NH-A8F7-01A-01-TS1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-XS-A8TJ-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-RD-A8N9-01A-01-TS1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-UZ-A9PJ-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-UZ-A9PN-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Proccessed Images/TCGA-XS-A8TJ-01Z-00-DX1.png
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-18-5592-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-21-5784-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-21-5786-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-38-6178-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-49-4488-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-50-5931-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-A7-A13E-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-A7-A13F-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-AR-A1AK-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-AR-A1AS-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-AY-A8YK-01A-01-TS1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-B0-5698-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-B0-5710-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-B0-5711-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-BC-A217-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-CH-5767-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-DK-A2I6-01A-01-TS1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-E2-A14V-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-E2-A1B5-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-F9-A8NY-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-FG-A87N-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-G2-A2EK-01A-02-TSB.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-G9-6336-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-G9-6348-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-G9-6356-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-G9-6362-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-G9-6363-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-HE-7128-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-HE-7129-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-HE-7130-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-KB-A93J-01A-01-TS1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-MH-A561-01Z-00-DX1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-NH-A8F7-01A-01-TS1.tif
+MoNuSeg/MoNuSeg 2018 Training Data/Tissue Images/TCGA-RD-A8N9-01A-01-TS1.tif
